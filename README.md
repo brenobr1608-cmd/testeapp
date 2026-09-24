@@ -1,4 +1,4 @@
-# Calculadora de média #
+# Calculadora de media #
 
 ## **Tecnologia utilizada** ##
 ### Python 3 ###
